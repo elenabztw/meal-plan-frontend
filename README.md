@@ -51,12 +51,14 @@ src/
 
 
 Example Features
-Fetch meals
-Add a meal
-Edit a meal
-Delete a meal
+- Fetch meals
+- Add a meal
+- Edit a meal
+- Delete a meal
 
+## 🔗 Live Demo
 
+[Check it out on Netlify](chimerical-hotteok-efa90b.netlify.app)
 
 
 # React + Vite
