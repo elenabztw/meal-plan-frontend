@@ -1,7 +1,5 @@
 import axios from 'axios';
 
-// const myURL = "https://meal-plan-backend-60rq.onrender.com"
-
 const getAllMeals = (setMeal) => {
   axios.get("https://meal-plan-backend-60rq.onrender.com")
   .then(({ data }) => {
