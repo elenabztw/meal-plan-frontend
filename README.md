@@ -57,11 +57,11 @@ src/
 └── main.jsx
 
 
-🧪 Example Features
-✅ Fetch meals
-✅ Add a meal
-✅ Edit a meal
-✅ Delete a meal
+Example Features
+Fetch meals
+Add a meal
+Edit a meal
+Delete a meal
 
 
 
