@@ -58,7 +58,7 @@ Example Features
 
 ## 🔗 Live Demo
 
-[Check it out on Netlify](chimerical-hotteok-efa90b.netlify.app)
+[Check it out on Netlify](https://chimerical-hotteok-efa90b.netlify.app/)
 
 
 # React + Vite
