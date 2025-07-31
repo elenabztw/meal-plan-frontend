@@ -20,16 +20,17 @@ A simple React app for planning and managing your meals. This frontend connects 
 git clone https://github.com/elenabztw/meal-plan-frontend.git
 cd meal-plan-frontend
 
-2. Install dependencies
+
+### 2. Install dependencies
 bash
 npm install
 
-3. Start the development server
+### 3. Start the development server
 bash
 npm run dev
 By default, it runs on: http://localhost:5173
 
-
+---
 API Configuration
 Make sure your backend server is running at http://localhost:7000.
 
@@ -43,7 +44,7 @@ VITE_API_BASE_URL=http://localhost:7000
 And then in code:
 axios.get(`${import.meta.env.VITE_API_BASE_URL}/api/meals`)
 
-
+---
 📁 Folder Structure
 bash
 Copy
